@@ -1,0 +1,15 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    jsonl (0.1.5)
+    statsd-ruby (1.4.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  jsonl
+  statsd-ruby
+
+BUNDLED WITH
+   2.0.1
